@@ -8,4 +8,4 @@ For comprehensive results and methodological details, please refer to our study:
 To be submitted to Journal of Ecology
 
 **Corresponding author:**
-Rui-Ting Ju ([jurt@fudan.edu.cn](mailto:jurt@fudan.edu.cn)) • Weihua Guo([whguo_sdu@163.com](mailto:whguo_sdu@163.com))
+Rui-Ting Ju ([jurt@fudan.edu.cn](mailto:jurt@fudan.edu.cn)) • Weihua Guo([guowh@email.sdu.edu.cn](mailto:guowh@email.sdu.edu.cn))
