@@ -4,7 +4,7 @@ This repository hosts the **R scripts** and data for analyzing global patterns o
 
 For comprehensive results and methodological details, please refer to our study:
 
-> **"Multidimensional syndrome of phenotypic plasticity in functional traits of a worldwide plant."**
+> **"Multidimensional plasticity syndromes and their future distribution in a cosmopolitan plant species."**
 To be submitted to Journal of Ecology
 
 **Corresponding author:**
